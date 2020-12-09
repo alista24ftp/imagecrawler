@@ -1,3 +1,13 @@
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <h3 align="center">Image Crawler</h3>
+
+  <p align="center">
+    A simple PHP image crawler
+  </p>
+</p>
+
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -15,8 +25,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
